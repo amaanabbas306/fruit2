@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 80px;
+    background-color: red;
+    
+}
+a{
+    color: whitesmoke;
+    margin-right: 200px;
+    text-decoration: none;
+    padding: 8px;
+}
+a:hover{
+    color:black;
+    text-decoration: underline 2px crimson;
+    font-family: monospace;
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: 10px;
+}
+.apple{
+    background-color:red;
+    margin: 8px;
+    height: 590px;
+    display: inline-block;
+    width: 350px;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+h1{
+    text-align: center;
+    background-color: red;
+}
+.mango{
+    height: 500px;
+    width: 390px;
+    background-color: yellow;
+    display: inline-block;
+    margin-top: 0px;
+    padding-top: 95px;
+    
+   
+}
+img{
+    text-align: center;
+    padding-left: 4px;
+}
+.abc{
+    background-color: yellow;
+}
+ .orange{
+    background-color: orangered;  
+    height: 500px;
+    width: 300px;
+    display: inline-block;
+    padding-top: 5px;
+    margin-top: 10px;
+    
+
+ }   
+.ab{
+    background-color: orangered;
+}
